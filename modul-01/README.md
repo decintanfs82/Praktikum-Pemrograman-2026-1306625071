@@ -1,4 +1,4 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Konversi Suhu]
 
 **Nama:** [Desintan Feby Harum Saragih]  
 **NIM:** [1306625071]  
@@ -27,6 +27,6 @@ $$F = \frac{9}{5} C + 32$$
 > 8. Print "TABEL KONVERSI"
 > 9. Print "TABEL....."
 > 10. Hitung Celcius ke Reamur : 4/5
-> 11. Hitung Celcius ke Fahrenheit : 9/5 + 32
+> 11. Hitung Celcius ke Fahrenheit : 9/5 C + 32
 > 12. Print hasil
 > 13. Selesai 
