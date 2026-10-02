@@ -16,7 +16,7 @@
 
 > Deret Maclaurin untuk $\cos(x)$: $$\cos(x) = \sum_{n=0}^{\infty} (-1)^n \frac{x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots$$
 
-> Rumus Relative error (Er):\varepsilon_r = $$\left| \frac{TV - AV}{TV} \right| \times 100\%$$
+> Rumus Relative error (Er):$$\varepsilon_r$$ = $$\left| \frac{TV - AV}{TV} \right| \times 100%\%$$
 > 
 
 ## 3. Algorithm
